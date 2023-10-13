@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "OwlCard (extention)",
+  "version": "1.0",
+  "description": "This is your electronic identity card ",
+  "icons": {
+    "128": "owl.png"
+  },
+  "action": {
+    "default_popup": "poping.html"
+  }
+}

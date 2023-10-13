@@ -1,0 +1,72 @@
+.recta{
+    width: 1250px;           /* Ancho de 150 píxeles */
+    height: 120px;          /* Alto de 150 píxeles */
+    background: #1abc9c;;        /* Fondo de color rojo */
+    border: 1px solid #000; /* Borde color negro y de 1 píxel de grosor */
+
+}
+.header {
+
+    text-align: center;
+    color: white;
+    font-size: 15px;
+}
+.cuadrado {
+    width: 750px;           /* Ancho de 150 píxeles */
+    height: 1700px;          /* Alto de 150 píxeles */
+    background: white;        /* Fondo de color rojo */
+    border: 1px solid #000; /* Borde color negro y de 1 píxel de grosor */
+    margin-top: -0.5px;
+    margin-left: 250px;
+}
+body{
+    text-align: center;
+  
+}
+.footer {
+    
+    padding: 1px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 15px;
+} 
+.Q1{
+    text-align: left;
+    font-size: 20px;
+}
+.R1{
+    text-align: left;
+    font-size: 15px;
+    color: gray;
+}
+.Q2{
+    text-align: left;
+    font-size: 20px;
+}
+.R2{
+    text-align: left;
+    font-size: 15px;
+    color: gray;
+
+}
+.Q3{
+    text-align: left;
+    font-size: 20px;
+}
+.R3{
+    text-align: left;
+    font-size: 15px;
+    color: gray;
+
+}
+.faq{
+    text-align: left;
+
+}
+.PENE{
+text-align: right;
+}
+.imagen{
+    margin-left: 25px;
+}
